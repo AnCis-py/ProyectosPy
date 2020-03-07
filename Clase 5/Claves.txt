@@ -1,0 +1,5 @@
+My Application’s Keys
+Consumer Key	cLAVwTv8jDuIIMxEGGNLkJJMHdKv5NDA
+Consumer Secret	zARXJmkfA9FAmrOV
+Key Issued	Fri, 02/28/2020 - 16:14
+Key Expires	Never
